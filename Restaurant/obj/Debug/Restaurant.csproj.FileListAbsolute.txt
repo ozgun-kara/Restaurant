@@ -1,0 +1,19 @@
+c:\users\ozgun\documents\visual studio 2012\Projects\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+c:\users\ozgun\documents\visual studio 2012\Projects\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+c:\users\ozgun\documents\visual studio 2012\Projects\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+c:\users\ozgun\documents\visual studio 2012\Projects\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+c:\users\ozgun\documents\visual studio 2012\Projects\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+c:\users\ozgun\documents\visual studio 2012\Projects\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+c:\users\ozgun\documents\visual studio 2012\Projects\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+c:\users\ozgun\documents\visual studio 2012\Projects\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Ozgun\Documents\Visual Studio 2012\Projects\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\Ozgun\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Ozgun\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Ozgun\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Ozgun\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csprojAssemblyReference.cache
+C:\Users\Ozgun\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\Ozgun\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\Ozgun\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\Ozgun\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Ozgun\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Ozgun\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
